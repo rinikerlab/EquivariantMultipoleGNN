@@ -1,7 +1,7 @@
 # Equivariant Graph Neural Network for Atomic Multipoles
 
 ## Description
-Repository for the Model used in the publication ['Learning Atomic Multipoles: Prediction of the Electrostatic Potential with Equivariant Graph Neural Networks'](https://arxiv.org/abs/2110.05417).
+Repository for the Model used in the publication ['Learning Atomic Multipoles: Prediction of the Electrostatic Potential with Equivariant Graph Neural Networks'](https://pubs.acs.org/doi/10.1021/acs.jctc.1c01021).
 The model was trained on the following publicly available [Dataset](https://www.research-collection.ethz.ch/handle/20.500.11850/509052).
 
 
